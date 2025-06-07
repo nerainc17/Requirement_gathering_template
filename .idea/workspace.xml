@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48ed0258-632b-4ae4-8cad-57fae7fcadcc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Requirement_gathering_template.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discovery.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pre-discovery.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pre-discovery.md" afterDir="false" />
-    </list>
+    <list default="true" id="48ed0258-632b-4ae4-8cad-57fae7fcadcc" name="Changes" comment="1st draft on requirement gathering template for solution building" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +44,19 @@
       <option name="presentableId" value="Default" />
       <updated>1749264659735</updated>
     </task>
+    <task id="LOCAL-00001" summary="1st draft on requirement gathering template for solution building">
+      <option name="closed" value="true" />
+      <created>1749269185683</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749269185683</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st draft on requirement gathering template for solution building" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st draft on requirement gathering template for solution building" />
   </component>
 </project>
