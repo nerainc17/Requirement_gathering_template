@@ -1,0 +1,19 @@
+﻿Context,Describe business need or problem statement.
+Questionaire,Response
+"who is participating in pre-discovery session, what is their role in this pre-discovery session and what are they going to contribute in overall implementation","name, role, contribution "
+who triggers the workflow,user group
+from where (which application) flow is triggered,system name/ business terms
+what are logical/ business hops through which information/ message flows,Business-process workflow
+At what interval information/ message will reach my system boundary,timing (e.g. 9 AM EST to 4 PM EST or 24/7/365)
+"what are series of steps, my system is expected to perform to address/ meet this business need/ problem",Business-operations-technical process workflow
+what is expected out of my system as an outcome,"Business, functional, technical and logical outcome of the workflow"
+who will consume my system's outcome,user group / system name
+At what interval information/ message is expected out of my system,timing (e.g. 9 AM EST to 4 PM EST or 24/7/365)
+"At what speed, business expect my system to consumer information/ messages","timing (Immediately, every hour or once a day at the end of day - 10 PM EST)"
+How big is the information/ message flow to my system,"Volume projection (Daily, monthly, growth percentage YoY), Volume during peak hour, when is the peak hour?"
+"In addition to primary flow, what extra conditional/ optional capabilities expected out of my system","e.g. workflow terminal state to be informed to specific system, generate a report, offload data to offsite in real-time for end of day reports, trigger reconciliation process in real-time"
+"In addition to primary flow, what extra conditional/ optional capabilities expected out of other system(s) for whom my system is book of record","e.g. workflow terminal state to be informed to specific system, generate a report, offload data to offsite in real-time for end of day reports, trigger reconciliation process in real-time"
+"At what interval, my system is expected to offload information/ message flow to other system ","timing (Immediately, every hour or once a day at the end of day - 10 PM EST)"
+What are the SLA for my system to provide outcome to flow triggering system,"e.g. real-time, every hour, end of day - 10 PM EST"
+What are the SLA for my system to provide information/ messages to other system,"e.g. real-time, every hour, end of day - 10 PM EST"
+What all are the logical applications already identified that will be fulfilling some aspect of the business workflow ,"names of systems, user groups"
